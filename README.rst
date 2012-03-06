@@ -12,3 +12,6 @@ git clone git://github.com/duo-criativa/dcModernFormPlugin.git plugins/dcModernF
 
 Requirements
 ------------
+
+- jQuery;
+- FCBKcomplete jQuery plugin;
