@@ -1,0 +1,10 @@
+
+Installation
+------------
+
+In the root directory of your project run the following command
+
+git clone git://github.com/duo-criativa/dcModernFormPlugin.git plugins/dcModernFormPlugin
+
+Requirements
+------------
