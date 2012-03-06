@@ -14,4 +14,4 @@ Requirements
 ------------
 
 - jQuery;
-- FCBKcomplete jQuery plugin;
+- FCBKcomplete jQuery plugin (https://github.com/emposha/FCBKcomplete);
